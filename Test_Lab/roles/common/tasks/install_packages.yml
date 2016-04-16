@@ -1,0 +1,7 @@
+name : "install packages"
+    apt : {{item}} state = latest
+      with_items:
+          - open-vm-tools
+          - sysstat
+          - sysdig
+  
