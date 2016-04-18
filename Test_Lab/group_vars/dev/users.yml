@@ -2,12 +2,8 @@ users:
   admin:
     state: Present
     comment: "Test Admin User"
-  shell: "/bin/bash"
-    uid: 5110
-    guid: 5110
-    password: "fb997d5c01ebcf962d820b3b0e7f8bfeeb7f4bd337cc83682f2af90d252c20c5d85744b7c6bb94f48139f690a61e4ad317d6107e4310efc016d9287266b5172b"
+    shell: "/bin/bash"
+    password: "8c7c9d16278ac60a19776f204f3109b1c2fc782ff8b671f42426a85cf72b1021887dd9e4febe420dcd215ba499ff12e230daf67afffde8bf84befe867a8822c4"
     sshkey: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDCW/u+jVfToOMgIBF4D63pEeXBx8Z1hfysH0JFy2hUFHFcqwBplP2oGqEZgVU+OAU0iXNOAK8yghh750pavCNnMW+k44
     xyQYhJ+k3964vOoPOoKuAPq8EemPZXl4fx+JQY2q344/LfuDcKR1Iuju98UQain1QxBk9zzT3PjN8oMABlHGIEZRW0KmEYAHZTgksuEdHsFl5zkhcFBtj8A0zSUZ36QcbP+F53OqkgAhy
     ZIAcbEQFXaA5yDjWBN5THBQflQ7iLs4gQIdSsyxGCuWLuksQOkdhGEH02barpaHGDGsEVlR+R0PRttj2zL8xov20C/UVpFTGWW7BIDya9rKeL testuser@sp.local"
-
-    
