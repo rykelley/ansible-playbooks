@@ -1,5 +1,5 @@
-[test lab dev]
+[test_lab_dev]
 10.10.1.106
 
 [dev:children]
-test lab dev
+test_lab_dev
